@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{33AD0EE8-D99B-4E14-8CD9-3F56ABEF97A2}") = "eXtreme365.AzureFunction", "eXtreme365.AzureFunction\eXtreme365.AzureFunction.funproj", "{C8354B2C-AFF0-4414-817D-D583C3C1DCC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eXtreme365.FunctionAssembly", "eXtreme365.FunctionAssembly\eXtreme365.FunctionAssembly.csproj", "{F4C95909-B4BE-4FAC-B794-BC95A3B9DDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eXtreme365.WorkflowActivity", "eXtreme365.WorkflowActivity\eXtreme365.WorkflowActivity.csproj", "{2110F684-C277-47E7-B8B9-6F17A579D0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8354B2C-AFF0-4414-817D-D583C3C1DCC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8354B2C-AFF0-4414-817D-D583C3C1DCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8354B2C-AFF0-4414-817D-D583C3C1DCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8354B2C-AFF0-4414-817D-D583C3C1DCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C95909-B4BE-4FAC-B794-BC95A3B9DDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C95909-B4BE-4FAC-B794-BC95A3B9DDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C95909-B4BE-4FAC-B794-BC95A3B9DDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C95909-B4BE-4FAC-B794-BC95A3B9DDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2110F684-C277-47E7-B8B9-6F17A579D0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

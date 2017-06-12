@@ -1,0 +1,17 @@
+﻿{
+    "frameworks": {
+        "net46" : {
+          "dependencies": {
+            "Microsoft.SharePointOnline.CSOM": "16.1.5715.1200",
+            "SPMeta2.Core": "1.2.100",
+            "SPMeta2.CSOM.Foundation-v16": "1.2.100",
+            "Microsoft.CrmSdk.CoreAssemblies": "8.2.0.2",
+            "Microsoft.CrmSdk.Deployment": "8.2.0.2",
+            "Microsoft.CrmSdk.Workflow": "8.2.0.2",
+            "Microsoft.CrmSdk.XrmTooling.CoreAssembly": "8.2.0.2",
+            "Microsoft.IdentityModel": "6.1.7600.16394",
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": "2.22.302111727"
+          }
+        }
+    }
+}
