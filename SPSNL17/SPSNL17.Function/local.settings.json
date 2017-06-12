@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "user": "user",
+    "password": "xxxx",
+    "crmurl": "https://tenant.crm.dynamics.com",
+    "sharepointBaseUrl": "https://tenant.sharepoint.com/sites/sitecollection"
+  }
+}
